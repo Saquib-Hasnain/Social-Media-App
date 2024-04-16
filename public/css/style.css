@@ -1,0 +1,31 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+body {
+    background-color: rgb(193, 97, 97);
+    height: 100%;
+    width: 100%;
+    
+}
+#container{
+    background-color: black;
+    color: white;
+    height: 200px;
+    width: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.formm{
+   
+    width: 600px;
+    padding: 10px;
+    border-color:rgb(255, 191, 0) ;
+    margin: auto;
+    border-radius: 10px;
+    background-color: aliceblue;
+}
+
